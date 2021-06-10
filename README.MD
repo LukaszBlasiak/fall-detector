@@ -37,7 +37,7 @@ all training samples are actual fall records. After many bruises and countless p
 the final training dataset consists of 250 record – 125 of actual falls and 125 of ordinary activities (walking, 
 sitting, crouching etc.). Each record is set of 8 frames in 8x8 resolution captured using 8Hz frequency (FPS). Above 
 parameters are determined experimentally and gave the best results. An example record is show on figure below (with 
-interpolation to 24x24 resolution on the left and in original size on the right):
+interpolation to 24x24 resolution on the left and in original size on the right).
 ![Record sample](./_example/record sample.png)
 
 ## Artificial intelligence algorithms
