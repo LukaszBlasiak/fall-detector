@@ -127,5 +127,3 @@ dmypy.json
 .idea/
 idea/
 logs/
-*.h5
-*.pkl
