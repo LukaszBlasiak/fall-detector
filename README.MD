@@ -38,7 +38,7 @@ the final training dataset consists of 250 record – 125 of actual falls and 12
 sitting, crouching etc.). Each record is set of 8 frames in 8x8 resolution captured using 8Hz frequency (FPS). Above 
 parameters are determined experimentally and gave the best results. An example record is show on figure below (with 
 interpolation to 24x24 resolution on the left and in original size on the right).
-![Record sample](./_example/record sample.png)
+![Record sample](./_example/record_sample.png)
 
 ## Artificial intelligence algorithms
 To create fall detection model, following algorithms were used:
