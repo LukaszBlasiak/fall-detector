@@ -69,4 +69,4 @@ falling classification, achieving a detection efficiency of about 90%.
 
 ![ROC chart](./_example/roc_chart.png)
 
-Full master thesis in Polish language may be found [here](./_example/Master_thesis-Lukasz_Blasiak.pdf).
+Full master thesis in Polish language can be found [here](./_example/Master_thesis-Lukasz_Blasiak.pdf).
