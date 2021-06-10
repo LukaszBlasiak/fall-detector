@@ -29,7 +29,7 @@ In order to implement a cloud-based system to handle the elderly falls, the AWS 
 approach. With serverless computing, infrastructure management tasks like capacity provisioning and patching are handled 
 by AWS. Serverless services come with automatic scaling, built-in high availability, and a pay-for-value billing model. 
 Below figure represents used cloud architecture.
-![Cloud schema](./_example/cloud_schema.png)
+![Cloud schema](./_example/cloud_schema.PNG)
 
 ## Dataset collection
 In order to build up high accuracy detector model it is necessary to create reliable training dataset. In this project 
